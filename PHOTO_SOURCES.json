@@ -1,0 +1,682 @@
+[
+  {
+    "article": "uteplennaya-bytovka.html",
+    "role": "card",
+    "file": "images/card-uteplennaya-bytovka.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-so-skatnoy-kryshe-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_1222.JPG",
+    "source_size": [
+      1600,
+      1200
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Зелёный блок-контейнер со скатной крышей на площадке БытБлок",
+    "sha256_source": "c82731b286c5483233dff370d6ed8b2e5a2f9f97137bba0b7c67561938f11e5b"
+  },
+  {
+    "article": "uteplennaya-bytovka.html",
+    "role": "hero",
+    "file": "images/hero-uteplennaya-bytovka.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-so-skatnoy-kryshe-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_9917.jpg",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "output_size": [
+      1600,
+      1200
+    ],
+    "description": "Внутренняя отделка блок-контейнера со скатной крышей",
+    "sha256_source": "8e0977c33785c739aa94d71f5e5a9a8bf518e56159345ccaed6adc97b13adfd7"
+  },
+  {
+    "article": "razmery-bytovki.html",
+    "role": "card",
+    "file": "images/card-razmery-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-v-mo-g-lobnya",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_9926.jpg",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Металлический блок-контейнер с окном и дверью в Лобне",
+    "sha256_source": "5629161edf916235eeb39bc417be2aeb4b345e060f78543e07058e75c0a6834a"
+  },
+  {
+    "article": "razmery-bytovki.html",
+    "role": "hero",
+    "file": "images/hero-razmery-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-v-mo-g-lobnya",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_9928.jpg",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "output_size": [
+      1600,
+      1200
+    ],
+    "description": "Блок-контейнер в Лобне — вид с угла",
+    "sha256_source": "845b27ae4f8694af7ac113ea7f103888ff88ed8df88dc665ff3546cc729c73d6"
+  },
+  {
+    "article": "ustanovka-bytovki.html",
+    "role": "card",
+    "file": "images/card-ustanovka-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-bk-komfort-g-dmitrov",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/5077eac8-60ff-482b-81ed-c1817429c72d.JPG",
+    "source_size": [
+      4032,
+      3024
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Готовый блок-контейнер БК-комфорт в Дмитрове",
+    "sha256_source": "faaa9e72c9dfbe87ed6332577ff367327eccc5836e33073f343f17a3ea379023"
+  },
+  {
+    "article": "ustanovka-bytovki.html",
+    "role": "hero",
+    "file": "images/hero-ustanovka-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/kholodilnaya-na-baze-blok-konteynera-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_0010.jpg",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "output_size": [
+      1600,
+      1200
+    ],
+    "description": "Блок-контейнер, установленный на опорах",
+    "sha256_source": "9a74e62e924e27e61b2344c8ff5b3507a8f3410a584b1fec472029f52d5733c3"
+  },
+  {
+    "article": "fundament-pod-bytovku.html",
+    "role": "card",
+    "file": "images/card-fundament-pod-bytovku.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-20-blok-konteynerov-v-mo-g-domodedovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/1238da4b-7be0-4ff3-bf5b-d4c03c76e9f3-min.JPG",
+    "source_size": [
+      1600,
+      1094
+    ],
+    "output_size": [
+      720,
+      492
+    ],
+    "description": "Модульное здание на подготовленном основании в Домодедове",
+    "sha256_source": "6ce568264b6c6465480950a46e098c3f6255e01ec4ff73305ec63cf48405abcf"
+  },
+  {
+    "article": "fundament-pod-bytovku.html",
+    "role": "hero",
+    "file": "images/hero-fundament-pod-bytovku.webp",
+    "source_page": "https://bytblock.ru/projects/santekhnicheskiy-blok-konteyner-s-dushevymi-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/2024-07-24%2021-46-43%20%2844%29-min.jpeg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      1280,
+      960
+    ],
+    "description": "Нижняя часть сантехнического блока и его опоры",
+    "sha256_source": "32fc97da7212af766cc8fba34e7275c589717f9313e46d08dda77efe054807cb"
+  },
+  {
+    "article": "bytovki-dlya-prozhivaniya.html",
+    "role": "card",
+    "file": "images/card-bytovki-dlya-prozhivaniya.webp",
+    "source_page": "https://bytblock.ru/projects/chetyre-zhilykh-blok-konteynera-na-baze-morskogo-v-mo-g-shatura",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/2024-07-24%2021-41-45%20%289%29.jpeg",
+    "source_size": [
+      1599,
+      959
+    ],
+    "output_size": [
+      720,
+      432
+    ],
+    "description": "Жилые блок-контейнеры на базе морских контейнеров в Шатуре",
+    "sha256_source": "3503a59d6e0ce626e7d662567b94b57b363aa0b4edf2128148182a4f40b1d093"
+  },
+  {
+    "article": "bytovki-dlya-prozhivaniya.html",
+    "role": "hero",
+    "file": "images/hero-bytovki-dlya-prozhivaniya.webp",
+    "source_page": "https://bytblock.ru/projects/chetyre-zhilykh-blok-konteynera-na-baze-morskogo-v-mo-g-shatura",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/2024-07-24%2021-41-45%20%284%29.jpeg",
+    "source_size": [
+      1070,
+      1427
+    ],
+    "output_size": [
+      1070,
+      1427
+    ],
+    "description": "Внутреннее помещение жилого блок-контейнера в Шатуре",
+    "sha256_source": "e17da7f8f1efb4a9d1e979c56e88fc25caa0f8d35f1575aca13e92fa21b79ca2"
+  },
+  {
+    "article": "ofisnaya-bytovka.html",
+    "role": "card",
+    "file": "images/card-ofisnaya-bytovka.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-bk-komfort-g-dmitrov",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/IMG_3453-1.jpg",
+    "source_size": [
+      4000,
+      3000
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Блок-контейнер БК-комфорт с окнами и входной дверью",
+    "sha256_source": "0a838ab030afa18babdae8f2136d2897a27cb80933415296e16f5dc01341308b"
+  },
+  {
+    "article": "ofisnaya-bytovka.html",
+    "role": "hero",
+    "file": "images/hero-ofisnaya-bytovka.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-20-blok-konteynerov-v-mo-g-domodedovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/ff2db39e-6e4f-482c-8c6c-11d9cb69466d-min.JPG",
+    "source_size": [
+      1600,
+      1200
+    ],
+    "output_size": [
+      1600,
+      1200
+    ],
+    "description": "Внутреннее помещение модульного здания в Домодедове",
+    "sha256_source": "3327d0922feb13e60f1a23a25f069096b673cf467d66b530055cc3932136b627"
+  },
+  {
+    "article": "modulnyy-ofis.html",
+    "role": "card",
+    "file": "images/card-modulnyy-ofis.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-s-panoramnymi-oknami-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/72cae78a-1824-4557-a0c9-38958e582bac-min.JPG",
+    "source_size": [
+      1552,
+      1164
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Блок-контейнер с панорамными окнами в Москве",
+    "sha256_source": "dca388e7989ae97ce548df4c6d648149955a0f8db9947bd0d04f16a3c0c20a9e"
+  },
+  {
+    "article": "modulnyy-ofis.html",
+    "role": "hero",
+    "file": "images/hero-modulnyy-ofis.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-s-panoramnymi-oknami-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/e47db96e-fa4e-473b-80cc-7889f74db279-min.JPG",
+    "source_size": [
+      1600,
+      1200
+    ],
+    "output_size": [
+      1600,
+      1200
+    ],
+    "description": "Панорамное остекление готового блок-контейнера",
+    "sha256_source": "9d3046b627402bce9a206533d0179aee14b5386389e2236986526552b00f643b"
+  },
+  {
+    "article": "santehnicheskiy-blok-konteyner.html",
+    "role": "card",
+    "file": "images/card-santehnicheskiy-blok-konteyner.webp",
+    "source_page": "https://bytblock.ru/projects/santekhnicheskiy-blok-konteyner-s-dushevymi-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/2024-07-24%2021-46-43%20%2845%29-min.jpeg",
+    "source_size": [
+      1190,
+      892
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Сантехнический блок-контейнер с душевыми в Москве",
+    "sha256_source": "28ce1112b30b29eba58d21685a587413a6187ef0760be44937ab0ce2c9a8ed07"
+  },
+  {
+    "article": "santehnicheskiy-blok-konteyner.html",
+    "role": "hero",
+    "file": "images/hero-santehnicheskiy-blok-konteyner.webp",
+    "source_page": "https://bytblock.ru/projects/santekhnicheskiy-blok-konteyner-s-dushevymi-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/2024-07-24%2021-46-43%20%2817%29-min.jpeg",
+    "source_size": [
+      1600,
+      1200
+    ],
+    "output_size": [
+      1600,
+      1200
+    ],
+    "description": "Душевые кабины и внутренняя отделка сантехнического блока",
+    "sha256_source": "c78d037bba75921ea58c6a6904f710b507e07ed99c9879d138786bcb88bd8cd4"
+  },
+  {
+    "article": "modulnyy-kpp.html",
+    "role": "card",
+    "file": "images/card-modulnyy-kpp.webp",
+    "source_page": "https://bytblock.ru/projects/prokhodnaya-v-mo-g-khimki",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/2024-07-24%2021-45-33%20%2818%29-min.jpeg",
+    "source_size": [
+      1252,
+      938
+    ],
+    "output_size": [
+      720,
+      539
+    ],
+    "description": "Проходная с крыльцом в Химках",
+    "sha256_source": "f497fc28c6cc32f5dca3b87bc22a474019b1b3e7909a008d7a589963cd0138cb"
+  },
+  {
+    "article": "modulnyy-kpp.html",
+    "role": "hero",
+    "file": "images/hero-modulnyy-kpp.webp",
+    "source_page": "https://bytblock.ru/projects/prokhodnaya-v-mo-g-khimki",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/2024-07-24%2021-45-33%20%2816%29-min.jpeg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      1280,
+      960
+    ],
+    "description": "Проходная в Химках — вид со стороны входа",
+    "sha256_source": "dba3214076a39cb65111c016a0414ec80dc106f8c59b0f3b606feebb37cd2db1"
+  },
+  {
+    "article": "post-ohrany.html",
+    "role": "card",
+    "file": "images/card-post-ohrany.webp",
+    "source_page": "https://bytblock.ru/projects/post-okhrany-v-mo-g-scherbinka",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-05-21%20%D0%B2%2018.43.34_d35b296e-min.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Пост охраны на объекте в Щербинке",
+    "sha256_source": "fd42946cbfb8059e1c39f5bb7c21b6a8b44e9baae8e4946535fe0154d45e36c6"
+  },
+  {
+    "article": "post-ohrany.html",
+    "role": "hero",
+    "file": "images/hero-post-ohrany.webp",
+    "source_page": "https://bytblock.ru/projects/post-okhrany-v-mo-g-scherbinka",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-05-21%20%D0%B2%2018.43.34_4d4ede88-min.jpg",
+    "source_size": [
+      1244,
+      932
+    ],
+    "output_size": [
+      1244,
+      932
+    ],
+    "description": "Пост охраны в Щербинке — вид с другой стороны",
+    "sha256_source": "df5d9e73607bde2922353a29d136d6740c580124549e8166141df02f40aa3bbb"
+  },
+  {
+    "article": "skladskoy-konteyner.html",
+    "role": "card",
+    "file": "images/card-skladskoy-konteyner.webp",
+    "source_page": "https://bytblock.ru/projects/kholodilnaya-na-baze-blok-konteynera-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_0006_0.jpg",
+    "source_size": [
+      4025,
+      2640
+    ],
+    "output_size": [
+      720,
+      472
+    ],
+    "description": "Холодильный складской блок-контейнер в Москве",
+    "sha256_source": "1ab124e7ea392aa3ac2740220a66ad55554a5237c703f13ba57584c7277d35a9"
+  },
+  {
+    "article": "skladskoy-konteyner.html",
+    "role": "hero",
+    "file": "images/hero-skladskoy-konteyner.webp",
+    "source_page": "https://bytblock.ru/projects/kholodilnaya-na-baze-blok-konteynera-v-g-moskva",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_0014_0.jpg",
+    "source_size": [
+      4284,
+      5712
+    ],
+    "output_size": [
+      1200,
+      1600
+    ],
+    "description": "Внутреннее помещение холодильного блок-контейнера",
+    "sha256_source": "bef836460cb6c79432022df878445dee6b4de34d6a17d4571d3a266443e7ca02"
+  },
+  {
+    "article": "blok-konteyner-sendvich.html",
+    "role": "card",
+    "file": "images/card-blok-konteyner-sendvich.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-7-blok-konteynerov-s-sanuzlami-v-g-odincovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/IMG_4510.jpg",
+    "source_size": [
+      1600,
+      1200
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Модульное здание из семи блок-контейнеров в Одинцове",
+    "sha256_source": "0bbab03da6bffc5a9bbef5e677dc2e722077201baa689ab207c1ed25d5b1920d"
+  },
+  {
+    "article": "blok-konteyner-sendvich.html",
+    "role": "hero",
+    "file": "images/hero-blok-konteyner-sendvich.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-7-blok-konteynerov-s-sanuzlami-v-g-odincovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/IMG_4512-1.jpg",
+    "source_size": [
+      1560,
+      1170
+    ],
+    "output_size": [
+      1560,
+      1170
+    ],
+    "description": "Модульное здание из сэндвич-панелей в Одинцове",
+    "sha256_source": "e06f9724e0a7adc6e3bfde98754cc1accd06c2ba1c05ccf25f4299259dd590be"
+  },
+  {
+    "article": "modulnye-zdaniya.html",
+    "role": "card",
+    "file": "images/card-modulnye-zdaniya.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-otdelnostoyaschikh-vagonov-na-baze-100kh-bk-00-v-der-ulyanovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-11/IMG-20251119-WA0014_1.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Двухэтажное модульное здание в Тверской области",
+    "sha256_source": "f43fb0e7e51831f426be2ed7108e60181069bede33f15d39d368430065e8d0a0"
+  },
+  {
+    "article": "modulnye-zdaniya.html",
+    "role": "hero",
+    "file": "images/hero-modulnye-zdaniya.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-otdelnostoyaschikh-vagonov-na-baze-100kh-bk-00-v-der-ulyanovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-11/IMG-20251119-WA0013_0.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      1280,
+      960
+    ],
+    "description": "Двухэтажный комплекс из блок-контейнеров — общий вид",
+    "sha256_source": "869a9a3917da105d054b2d8c53ce36ff4362a76a7b1b0cb9a1b5c1839c452604"
+  },
+  {
+    "article": "dostavka-i-ustanovka.html",
+    "role": "card",
+    "file": "images/card-dostavka-i-ustanovka.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-3-kh-blok-konteynerov-g-moskva-ul-mosfilmovskaya",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-05/mzd_mosfilm_03.jpg",
+    "source_size": [
+      1000,
+      750
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Модульное здание на объекте в Москве на Мосфильмовской улице",
+    "sha256_source": "91b1744289275c9b2b2f073421e53ec0a0ccfc3d59afe60895003c3523c80265"
+  },
+  {
+    "article": "dostavka-i-ustanovka.html",
+    "role": "hero",
+    "file": "images/hero-dostavka-i-ustanovka.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-3-kh-blok-konteynerov-g-moskva-ul-mosfilmovskaya",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-05/mzd_mosfilm_02.jpg",
+    "source_size": [
+      1000,
+      750
+    ],
+    "output_size": [
+      1000,
+      750
+    ],
+    "description": "Установленное модульное здание на Мосфильмовской улице",
+    "sha256_source": "ff71c5ccf2aa157db780e9f4915099c8d2ee932798cec98c3421bf207d873f1f"
+  },
+  {
+    "article": "perevozka-bytovki.html",
+    "role": "card",
+    "file": "images/card-perevozka-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/chetyre-zhilykh-blok-konteynera-na-baze-morskogo-v-mo-g-shatura",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/2024-07-24%2021-41-45%20%2811%29.jpeg",
+    "source_size": [
+      1200,
+      1021
+    ],
+    "output_size": [
+      635,
+      540
+    ],
+    "description": "Готовые жилые блок-контейнеры в Шатуре",
+    "sha256_source": "a7ffcf0f123e231d7bce857732cc429d37c3c06eb1b86ec1b70106fac78aa9f5"
+  },
+  {
+    "article": "perevozka-bytovki.html",
+    "role": "hero",
+    "file": "images/hero-perevozka-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/zhiloy-konteyner-s-kukhney-i-sanuzlom-na-baze-morskogo-v-mo-g-solnechnogorsk",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/2024-07-24%2021-41-45%20%283%29.jpeg",
+    "source_size": [
+      1024,
+      768
+    ],
+    "output_size": [
+      1024,
+      768
+    ],
+    "description": "Жилой контейнер на объекте в Солнечногорске",
+    "sha256_source": "9dbc45ce6a9aa3657578522fb41a7313496f57f37671610e0a0f18c806fd96d4"
+  },
+  {
+    "article": "cena-blok-konteynera.html",
+    "role": "card",
+    "file": "images/card-cena-blok-konteynera.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-dlya-blagoustroystva-territorii",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-07/photo_2026-07-01_12-15-26.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Блок-контейнер с реечной облицовкой на производственной площадке",
+    "sha256_source": "6b806e9b9f3437ada8a3824386901039af074af01202fcc39296aa3cd8de93f6"
+  },
+  {
+    "article": "cena-blok-konteynera.html",
+    "role": "hero",
+    "file": "images/hero-cena-blok-konteynera.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-dlya-blagoustroystva-territorii",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-07/photo_2026-07-01_12-15-27%20%282%29.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      1280,
+      960
+    ],
+    "description": "Дверь и наружная облицовка готового блок-контейнера",
+    "sha256_source": "2699f34cc8cb119bb1a808750a926d05f09df138154c0cdcb8bd95a1dcb3d00a"
+  },
+  {
+    "article": "gotovaya-ili-na-zakaz.html",
+    "role": "card",
+    "file": "images/card-gotovaya-ili-na-zakaz.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-dlya-blagoustroystva-territorii",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-07/photo_2026-07-01_12-15-31_0.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Блок-контейнер с индивидуальной наружной отделкой",
+    "sha256_source": "914ef07896a602778dc2645b82727f307ce9fe1c47ebc1fdf47192ce7d883b16"
+  },
+  {
+    "article": "gotovaya-ili-na-zakaz.html",
+    "role": "hero",
+    "file": "images/hero-gotovaya-ili-na-zakaz.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-dlya-blagoustroystva-territorii",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-07/photo_2026-07-01_12-10-29.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      1280,
+      960
+    ],
+    "description": "Блок-контейнер с реечной облицовкой — вид с угла",
+    "sha256_source": "81fb64f5994d3bbc99251cf7d791c83a435054f1b324a9640f4d882b0be0681e"
+  },
+  {
+    "article": "letnyaya-ili-zimnyaya.html",
+    "role": "card",
+    "file": "images/card-letnyaya-ili-zimnyaya.webp",
+    "source_page": "https://bytblock.ru/projects/bystrovozvodimyy-modul-s-dvuskatnoy-kryshey-i-krylcom-v-krasnodarskiy-kray",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-11/IMG-20251026-WA0004_0.jpg",
+    "source_size": [
+      1280,
+      720
+    ],
+    "output_size": [
+      720,
+      405
+    ],
+    "description": "Блок-модуль с крыльцом на заснеженной площадке",
+    "sha256_source": "d370b1d2cf423db9d37177cb9f5c2ba3687910084971604601ce88b336a41908"
+  },
+  {
+    "article": "letnyaya-ili-zimnyaya.html",
+    "role": "hero",
+    "file": "images/hero-letnyaya-ili-zimnyaya.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-7-blok-konteynerov-s-sanuzlami-v-g-odincovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-09/IMG_1928.jpg",
+    "source_size": [
+      1530,
+      1148
+    ],
+    "output_size": [
+      1530,
+      1148
+    ],
+    "description": "Модульное здание с двускатной крышей",
+    "sha256_source": "28ae1286d3384085b8c052addd56e1356876e7934c27ebb66e47e28dba7a5fd1"
+  },
+  {
+    "article": "uteplenie-bytovki.html",
+    "role": "card",
+    "file": "images/card-uteplenie-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-3-kh-blok-konteynerov-g-moskva-ul-mosfilmovskaya",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-05/mzd_mosfilm_04.jpg",
+    "source_size": [
+      1000,
+      750
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Внутреннее помещение модульного здания на Мосфильмовской улице",
+    "sha256_source": "80cbbe3bace8ea4d52565d0a59675c7cc0f87e159cb51d91118e0514a9f08b03"
+  },
+  {
+    "article": "uteplenie-bytovki.html",
+    "role": "hero",
+    "file": "images/hero-uteplenie-bytovki.webp",
+    "source_page": "https://bytblock.ru/projects/kpp-s-turniketom-v-mo-g-schelkovo",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/IMG_9909.jpg",
+    "source_size": [
+      5712,
+      4284
+    ],
+    "output_size": [
+      1600,
+      1200
+    ],
+    "description": "Внутренняя отделка блок-контейнера в Щёлкове",
+    "sha256_source": "d58076f32f551cfead996a31b562375e8c1bd23a1ddca8c6ab63229e3ed1e053"
+  },
+  {
+    "article": "bytovka-ili-blok-konteyner.html",
+    "role": "card",
+    "file": "images/card-bytovka-ili-blok-konteyner.webp",
+    "source_page": "https://bytblock.ru/projects/blok-konteyner-raspashonka-v-mo-g-mytischi",
+    "source_image": "https://bytblock.ru/sites/default/files/2025-08/%D0%98%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5%20WhatsApp%202025-05-21%20%D0%B2%2018.43.39_3ad5e435.jpg",
+    "source_size": [
+      1280,
+      960
+    ],
+    "output_size": [
+      720,
+      540
+    ],
+    "description": "Блок-контейнер распашонка на объекте в Мытищах",
+    "sha256_source": "4f80bf695f6a4dbf2c175d0727503269da52e00baa19de4874c0c5ca0c35b7ea"
+  },
+  {
+    "article": "bytovka-ili-blok-konteyner.html",
+    "role": "hero",
+    "file": "images/hero-bytovka-ili-blok-konteyner.webp",
+    "source_page": "https://bytblock.ru/projects/modulnoe-zdanie-iz-3-kh-blok-konteynerov-g-moskva-ul-mosfilmovskaya",
+    "source_image": "https://bytblock.ru/sites/default/files/2026-05/mzd_mosfilm_05.jpg",
+    "source_size": [
+      1000,
+      750
+    ],
+    "output_size": [
+      1000,
+      750
+    ],
+    "description": "Помещение модульного здания с перегородками",
+    "sha256_source": "4910120ef4f8fcee2fbf6c0b95187733b74efa434defa860dedc6f479e72075e"
+  }
+]
